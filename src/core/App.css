@@ -1,0 +1,9 @@
+.chapter-list {
+  margin-top: 15px;
+  max-height: 700px;
+  overflow: auto;
+  text-align: center;
+  width: center;
+  padding-right: 70px;
+  padding-left: 70px;
+}
